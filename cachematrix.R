@@ -1,3 +1,6 @@
+## Programming Assignment 2
+## Mackenzie Wildman
+
 ## The following functions compute the inverse of a matrix
 ## by caching the the value of the matrix and its inverse.
 ## When computing a matrix inverse, the functions first check
